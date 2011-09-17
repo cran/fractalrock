@@ -1,0 +1,13 @@
+1e57bd49a6293bed4edcd945e0da5f96 *DESCRIPTION
+012592abf4b40a8d741b299df2ded05a *NAMESPACE
+ea4ac2f22787072c4cb4aee9cad0bbe6 *R/framework.R
+3b3476adf9529b8f6d9fc99613305dc1 *R/ornstein-uhlenbeck.R
+38fbd8cf0f1e7db9bb2566241417dc17 *TODO
+b2410ca2d2b2c0eb512c78509eebd7a4 *data/generators.RData
+ea0cf86e4987c239b36da4b82eca0275 *man/fractal.Rd
+e314583e5df76ce659213b09b06c51c5 *man/fractalrock-package.Rd
+53f4f0c1f25fafbebe3e1d71f4c114bd *man/getPortfolioPrices.Rd
+b5f254c3ad7237e3aa939b32ee42995a *man/plotReturns.Rd
+ae6f1445f729976a5acac073e1f4ce95 *man/process.Rd
+4f1f7841b18d38215b85c19f2388dcf0 *man/sampleGenerators.Rd
+43ce9953ab0d4a5250eaefeff7b783d6 *man/sampleInitiators.Rd
